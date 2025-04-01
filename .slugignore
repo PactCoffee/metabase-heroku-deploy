@@ -1,0 +1,10 @@
+.mvn
+target/*.jar
+!target/uberjar/metabase.jar
+target/classes
+target/dependency
+target/generated-sources
+target/maven-archiver
+target/maven-status
+target/surefire-reports
+target/test-classes
